@@ -1,26 +1,63 @@
 # Hey, I'm Semih 👋
 
-**Game Developer & Software Engineer** from Istanbul, Turkey
+I build game systems and prototypes with **Unity (C#)** and JavaScript.
 
-🎮 Currently building [Cave Bosses: Dragon Trappers](https://github.com/smhguler/cave-bosses-dragon-trappers) — a strategy/management game in Unity (C#)
-
-🎓 Learning low-level programming at **42 Istanbul** | Studying Computer Engineering at **Kocaeli University**
-
-🧠 I design game mechanics, economy systems, and AI behaviors. I have 5 original Game Design Documents and actively prototype in Unity.
-
-### What I'm working on
-- 🐉 **Cave Bosses** — Dynamic economy, trap systems, rival AI (Unity/C#)
-- 📚 **42 Projects** — libft, push_swap, and more in C
-- 🎯 **Career Goal** — Full-time game development or software engineering role
-
-### Tech & Tools
-`C#` `Unity` `C` `C++` `Java` `PHP` `JavaScript` `SQL` `Git`
-
-### Past Projects
-- 🏆 **Q-Learning Pathfinding** — Reinforcement learning visualization (C#)
-- 🪙 **Gold Collecting Game** — Search algorithm comparison: BFS, DFS, A* (C#)
-- 🏥 **Patient Notification Platform** — Healthcare management system (91 commits)
+I am focused on gameplay systems, economy/progression mechanics, and game design documentation. My current portfolio includes active indie game prototypes and **8 original Game Design Documents** across strategy, roguelite, survival, tower defense, and card game concepts.
 
 ---
 
-*"I design games in my dreams, then build them when I wake up."*
+## Featured Projects
+
+### Cave Bosses: Dragon Trappers — Unity / C#
+
+An isometric 2D strategy, management, and trading game prototype.
+
+I am working on modular gameplay systems such as:
+
+- Dynamic pricing with Lerp-based stock/value scaling
+- Inventory management
+- Time cycle logic
+- Vendor and economy systems
+- Loosely-coupled communication using the Observer Pattern
+
+### Mobilya Mevzisi — HTML5 / Canvas / JavaScript
+
+A defense and placement-focused game prototype.
+
+The prototype includes:
+
+- Grid-based drag-and-drop placement
+- Furniture roles such as economy, turret, trap, healing, and buff
+- Active/passive furniture logic
+- Blueprint and loot progression
+- Level and ability system
+- Day-based difficulty scaling
+- Minimap, log, and status panels
+
+---
+
+## Technical Skills
+
+`C#` `Unity` `JavaScript` `HTML5 Canvas` `C` `C++` `SQL` `Git`
+
+**Game Development:** Unity, C#, gameplay systems, prototyping, 2D game development  
+**Programming:** OOP, component-based architecture, state management, event-driven systems  
+**Design Patterns:** Observer Pattern, Component-based Architecture, State Machine, MVC  
+**Game Design:** GDD writing, economy design, progression systems, game mechanics analysis
+
+---
+
+## Current Focus
+
+- Building gameplay systems with Unity and C#
+- Improving my portfolio with playable prototypes
+- Writing and refining Game Design Documents
+- Studying software development through 42 Istanbul
+
+---
+
+## Contact
+
+- GitHub: [github.com/smhguler](https://github.com/smhguler)
+- LinkedIn: [linkedin.com/in/semih-güler-13285580](https://www.linkedin.com/in/semih-güler-13285580/)
+- Email: smh.guler@gmail.com
